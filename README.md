@@ -1,3 +1,6 @@
-# background-generator
+# Generate Gradient Backgrounds
 
-Test background gradients or try random ones. Control how bright the random ones are.
+* Random colors
+* Adjust brightness
+* Choose your own colors
+* Copy-paste the css code for the background
