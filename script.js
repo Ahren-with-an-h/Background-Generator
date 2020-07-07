@@ -13,7 +13,7 @@ function setGradient() {
 		color1.value + ', ' + 
 		color2.value + ')';
 		// Put the CSS code on screen for current background
-		css.textContent = body.style.background + ';' ;
+		css.textContent = body.style.background + ';  |  ' + color1.value + ', ' + color2.value ;
 }
 
 /**
